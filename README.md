@@ -46,7 +46,7 @@ An intelligent voice assistant for Kinyarwanda language interaction, developed a
 
 - Clone repository
   ```bash
-    git clone https://github.com/mwungere/KinyaWisper.git
+    git clone https://github.com/Mwungere/KinyaWisper.git
     cd KinyaWisper
   ```
 - Set up virtual environment
